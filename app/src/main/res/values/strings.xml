@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pastel Keyboard</string>
+    <string name="keyboard_service_name">Pastel Keyboard</string>
+    <string name="ime_settings">Keyboard Settings</string>
+    <string name="enable_keyboard_title">1. Enable Pastel Keyboard</string>
+    <string name="enable_keyboard_desc">Turn on Pastel Keyboard in your Android system input method settings.</string>
+    <string name="enable_button">Enable in Settings</string>
+    <string name="select_keyboard_title">2. Select Default Keyboard</string>
+    <string name="select_keyboard_desc">Switch your active input method to Pastel Keyboard.</string>
+    <string name="select_button">Select Keyboard</string>
+    <string name="test_keyboard_title">3. Test Keyboard</string>
+    <string name="test_keyboard_hint">Tap here to test your new keyboard…</string>
+    <string name="status_enabled">✓ Enabled</string>
+    <string name="status_active">✓ Selected as Default</string>
+    <string name="themes_title">Keyboard Themes</string>
+    <string name="theme_pink_dream">Pink Dream</string>
+    <string name="theme_lavender">Lavender</string>
+    <string name="theme_peach">Peach</string>
+    <string name="theme_rose">Rose</string>
+    <string name="theme_midnight">Midnight</string>
+    <string name="preferences_title">Preferences</string>
+    <string name="key_sound">Key Press Sound</string>
+    <string name="key_sound_desc">Play subtle audio click on keystroke</string>
+    <string name="key_vibration">Key Vibration (Haptic)</string>
+    <string name="key_vibration_desc">Gentle tactile feedback when typing</string>
+    <string name="key_popup">Key Character Popup</string>
+    <string name="key_popup_desc">Enlarged preview bubble above pressed key</string>
+    <string name="keyboard_height">Keyboard Height</string>
+    <string name="keyboard_height_desc">Adjust the vertical keyboard size</string>
+    <string name="privacy_title">Privacy &amp; Security</string>
+    <string name="privacy_badge">100% Offline &amp; Private</string>
+    <string name="privacy_desc">Pastel Keyboard does not collect, store, or transmit your keystrokes, passwords, or personal data. No internet permission is requested.</string>
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="288dp"
+    android:height="288dp"
+    android:viewportWidth="288"
+    android:viewportHeight="288">
+
+    <!-- Background circle layout matching launcher gradient style -->
+    <path
+        android:pathData="M144,144m-120,0a120,120 0,1 1,240 0a120,120 0,1 1,-240 0">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="24"
+                android:startY="24"
+                android:endX="264"
+                android:endY="264"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFF0F5" />
+                <item android:offset="1.0" android:color="#FAD2E1" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Stylized Keyboard base outline -->
+    <path
+        android:pathData="M74,104h140c11,0 20,9 20,20v50c0,11 -9,20 -20,20h-140c-11,0 -20,-9 -20,-20v-50c0,-11 9,-20 20,-20z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Cute aesthetic accent pastel key icons -->
+    <path
+        android:pathData="M84,118h20v16h-20z"
+        android:fillColor="#FFB7B2" />
+    <path
+        android:pathData="M112,118h20v16h-20z"
+        android:fillColor="#FFDAC1" />
+    <path
+        android:pathData="M140,118h20v16h-20z"
+        android:fillColor="#E2F0CB" />
+    <path
+        android:pathData="M168,118h20v16h-20z"
+        android:fillColor="#B5EAD7" />
+    <path
+        android:pathData="M196,118h20v16h-20z"
+        android:fillColor="#C7CEEA" />
+
+    <!-- Row 2 key indicators -->
+    <path
+        android:pathData="M90,144h18v16h-18z"
+        android:fillColor="#FFB7B2" />
+    <path
+        android:pathData="M116,144h18v16h-18z"
+        android:fillColor="#FAD2E1" />
+    <path
+        android:pathData="M142,144h18v16h-18z"
+        android:fillColor="#E2F0CB" />
+    <path
+        android:pathData="M168,144h18v16h-18z"
+        android:fillColor="#B5EAD7" />
+    <path
+        android:pathData="M194,144h18v16h-18z"
+        android:fillColor="#C7CEEA" />
+
+    <!-- Space Bar center representation -->
+    <path
+        android:pathData="M104,170h80c4,0 7,3 7,7v0c0,4 -3,7 -7,7h-80c-4,0 -7,-3 -7,-7v0c0,-4 3,-7 7,-7z"
+        android:fillColor="#FAD2E1" />
+</vector>
